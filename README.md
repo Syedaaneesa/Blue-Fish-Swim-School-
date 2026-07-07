@@ -2,7 +2,7 @@
 
 This Squarespace website was designed and developed for **Blue Fish Swim School** to establish a modern, engaging, and user-friendly online presence. The website features a clean and responsive design that allows parents and students to easily explore swim programs, courses, testimonials, and contact information across all devices. With intuitive navigation, professionally structured content, and visually appealing layouts, the site effectively represents the brand while encouraging inquiries and course registrations.
 
-**Live Website:** *Add Website URL Here*
+**Live Website:** *Comming Soon*
 
 ---
 
@@ -23,8 +23,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 * ⭐ Testimonials
 * 📚 Courses
 * 📞 Contact
-* 📄 Additional Information Page
-* 📄 Additional Information Page
 
 ---
 

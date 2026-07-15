@@ -1,4 +1,4 @@
-# 🏊 Blue Fish Swim School | Professional Squarespace Website Development
+# Blue Fish Swim School | Professional Squarespace Website Development
 
 This Squarespace website was designed and developed for **Blue Fish Swim School** to establish a modern, engaging, and user-friendly online presence. The website features a clean and responsive design that allows parents and students to easily explore swim programs, courses, testimonials, and contact information across all devices. With intuitive navigation, professionally structured content, and visually appealing layouts, the site effectively represents the brand while encouraging inquiries and course registrations.
 
@@ -6,7 +6,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 * Fully responsive design optimized for desktop, tablet, and mobile devices
 * Modern and clean user interface with intuitive navigation
@@ -39,7 +39,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 🎨 Design Process & Efforts
+## Design Process & Efforts
 
 * **Theme Customization** – Customized the Squarespace template to align with the swim school's branding, creating a clean, welcoming, and professional appearance while maintaining consistency throughout the website.
 
@@ -57,7 +57,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 🖼 Project Gallery
+## Project Gallery
 ![Home](Blue-Fish-Swim-School-Copy--07-01-2026_06_14_PM.png)
 ![About](About-—-Blue-Fish-Swim-School-Copy--07-01-2026_01_16_AM.png)
 ![Lessons](Lessons-—-Blue-Fish-Swim-School-Copy--07-01-2026_01_16_AM.png)
@@ -66,7 +66,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 🚀 Deployment & Maintenance
+## Deployment & Maintenance
 
 * Deployed on secure **Squarespace Hosting**
 * SSL encryption enabled for secure browsing
@@ -76,7 +76,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 📖 Learnings & Takeaways
+## Learnings & Takeaways
 
 * Developed a fully responsive client website using Squarespace
 * Improved expertise in Squarespace Fluid Engine and custom styling
@@ -86,7 +86,7 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)
 
@@ -98,4 +98,4 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 ### ⭐ If you like this project, consider giving it a star!
 
-https://github.com/Syedaaneesa/Blue-Fish-Swim-School
+https://github.com/Syedaaneesa/Blue-Fish-Swim-School-

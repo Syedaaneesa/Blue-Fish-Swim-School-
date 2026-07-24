@@ -4,7 +4,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 **Live Website:** *Comming Soon*
 
----
 
 ## Project Overview
 
@@ -24,7 +23,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 * 📚 Courses
 * 📞 Contact
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -37,7 +35,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 * **SEO Optimization**
 * **SSL Integration**
 
----
 
 ## Design Process & Efforts
 
@@ -55,7 +52,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 * **Testing & Responsiveness** – Thoroughly tested the website across multiple screen sizes and browsers to ensure consistent performance, responsive layouts, and a smooth browsing experience.
 
----
 
 ## Project Gallery
 ![Home](Blue-Fish-Swim-School-Copy--07-01-2026_06_14_PM.png)
@@ -64,7 +60,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 ![Testimonials](Testimonials-—-Blue-Fish-Swim-School-Copy--06-30-2026_01_02_AM.png)
 ![Courses](Swimming-Courses-—-Blue-Fish-Swim-School-Copy--06-30-2026_07_39_PM.png)
 
----
 
 ## Deployment & Maintenance
 
@@ -74,7 +69,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 * Regular content updates and maintenance to ensure reliability
 * Built using Squarespace's reliable cloud infrastructure for high availability
 
----
 
 ## Learnings & Takeaways
 
@@ -84,7 +78,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 * Built structured content layouts focused on user experience and accessibility
 * Optimized website performance through efficient media management and responsive design techniques
 
----
 
 ## Developer
 
@@ -94,7 +87,6 @@ This Squarespace website was designed and developed for **Blue Fish Swim School*
 
 **Project Type:** Client-based live website project
 
----
 
 ### ⭐ If you like this project, consider giving it a star!
 
